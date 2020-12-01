@@ -15,11 +15,11 @@ a {
 
 .container {
   height: 90vh;
-  max-width: 1280px;
-  background-color: #405b17;
-  background-image: url("./images/pohutukawa.jpg");
+  max-width: 960px;
+  background-color: #5a6d3c;
+  background-image: url("./images/xmas-dog.jpg");
   background-size: cover;
-  border: 3px solid #405b17;
+  border: 3px solid #5a6d3c;
   border-radius: 10px;
   box-shadow: 0 5px 30px 10px rgba(0,0,0,0.4);
   margin: 15px auto;
@@ -41,7 +41,7 @@ a {
   display: flex;
   align-items: center;
   justify-content: center;
-  border: 2px solid #405b17;
+  border: 2px solid #5a6d3c;
 }
 
 .number {
@@ -61,12 +61,12 @@ a {
 .btn-start {
   margin: 15px auto;
   display: block;
-  background-color: #b10a14;
+  background-color: #f92519;
   color: white;
   padding: 10px;
   font-size: 20px;
   border-radius: 10px;
-  border: 1px solid #405b17;
+  border: 1px solid #5a6d3c;
 }
 
 .btn-start:hover {
