@@ -6,7 +6,7 @@ const calendarDays = 25;
 const openDoor = (imagePath, dayUrlPath, event) => {
   event.target.parentNode.style.backgroundImage = `url(${imagePath})`;
   event.target.style.opacity = "0";
-  event.target.style.backgroundColor = "#503E1F";
+  event.target.style.backgroundColor = "#9ac1f4";
   setTimeout(() => {
     event.target.classList.remove("number")
     event.target.classList.add("play-btn")
@@ -36,8 +36,7 @@ const createCalendar = () => {
     dayNumber = i + 1;
 
     const urlPaths = {
-      1: "https://www.youtube.com/watch?v=_CeY0VdhXK8",
-      2: "https://www.nypl.org/blog/2019/12/19/listen-neil-gaiman-reads-christmas-carol",
+      1: "https://www.youtube.com/watch?v=s2bzP9GSnAU",
     };
 
     let dayImagePath = `./images/advent-m-${dayNumber}.jpg`;
