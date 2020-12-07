@@ -42,6 +42,7 @@ const createCalendar = () => {
       4: "https://www.youtube.com/watch?v=cExeSvmSXMA",
       5: "https://www.youtube.com/watch?v=uT3SBzmDxGk",
       6: "https://twitter.com/BobHagh/status/877920282710859776",
+      7: "https://www.youtube.com/watch?v=n9kfdEyV3RQ",
     };
 
     let dayImagePath = `./images/advent-m-${dayNumber}.jpg`;
