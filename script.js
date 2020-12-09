@@ -45,6 +45,7 @@ const createCalendar = () => {
       6: "https://twitter.com/BobHagh/status/877920282710859776",
       7: "https://www.youtube.com/watch?v=n9kfdEyV3RQ",
       8: "https://www.youtube.com/watch?v=92jbfz9qa9M",
+      9: "https://youtu.be/yg4Mq5EAEzw",
     };
 
     let dayNumber = i + 1;
