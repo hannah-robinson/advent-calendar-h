@@ -47,6 +47,7 @@ const createCalendar = () => {
       8: "https://www.youtube.com/watch?v=92jbfz9qa9M",
       9: "https://youtu.be/yg4Mq5EAEzw",
       10: "https://www.youtube.com/watch?v=Rg-Q-V3vVAo",
+      11: "https://xkcd.com/835/",
     };
 
     let dayNumber = i + 1;
