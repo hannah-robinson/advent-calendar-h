@@ -19,6 +19,10 @@ const urlPaths = {
   13: "https://www.youtube.com/watch?v=j_P_7AqgS0c",
   14: "https://www.youtube.com/watch?v=hFgtIziShmc",
   15: "https://www.youtube.com/watch?v=vi7SeBI7z9A",
+  16: "https://www.youtube.com/watch?v=MermUSeJJc8",
+  19: "https://www.youtube.com/watch?v=JiRYOmG2-tQ",
+  20: "https://www.youtube.com/watch?v=0ZjciPZII5A",
+
 };
 
 const openDoor = (event) => {
