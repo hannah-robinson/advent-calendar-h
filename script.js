@@ -170,5 +170,6 @@ const createCalendar = () => {
     
     calendarDoorContents.addEventListener("click", openDoor);
   }
+  calendarButton.remove();
 }
 calendarButton.addEventListener("click", createCalendar);
