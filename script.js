@@ -109,7 +109,7 @@ const openDoor = (event) => {
       modalContent.appendChild(closeBtn);
 
       textBackground.classList.add("xmas-text-background");
-      textBackground.innerHTML = "<p>Go to your computer's Desktop and click the file named M-25th.html</p>";
+      textBackground.innerHTML = "<p>Go to your computer's Desktop and click the file named H-25th.html</p>";
       modalContent.appendChild(textBackground);
 
       // Modal events
